@@ -237,3 +237,7 @@ Temporary Items
 
 # Data
 dev_data/
+processed_data/
+
+# Guides
+TRAINING_GUIDE.md
